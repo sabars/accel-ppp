@@ -79,3 +79,4 @@ $INCLUDE dictionary.microsoft
 $INCLUDE dictionary.cisco
 $INCLUDE dictionary.alcatel
 $INCLUDE dictionary.dhcp
+$INCLUDE dictionary.huawei
